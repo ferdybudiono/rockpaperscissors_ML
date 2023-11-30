@@ -3,7 +3,7 @@
 ## Setup Environment
 
 
-Open with Google Collaboratory on browser
+Open Google Collaboratory on browser
 ```
 https://colab.google/
 ```
