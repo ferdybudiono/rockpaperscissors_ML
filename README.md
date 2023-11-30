@@ -7,7 +7,7 @@ Open with Google Collaboratory
 ```
 https://colab.google/
 ```
-Paste this notebook link On 'Open Colab' github option
+Paste this notebook link On 'Open Colab' Github option
 ```
 https://github.com/ferdybudiono/rockpaperscissors_ML/blob/main/submisiDicodingRPS.ipynb
 ```
