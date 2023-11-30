@@ -1,2 +1,6 @@
 # Rock-Paper-Scissors Hand Gestures for Machine Learning
-*Setup Instalation*
+
+## Setup Instalation
+```
+apt-get install python 
+```
