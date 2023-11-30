@@ -9,5 +9,5 @@ https://colab.google/
 ```
 Paste notebook link On Open Colab
 ```
-
+https://github.com/ferdybudiono/rockpaperscissors_ML/blob/main/submisiDicodingRPS.ipynb
 ```
