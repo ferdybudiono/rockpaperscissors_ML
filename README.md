@@ -1,3 +1,13 @@
 # Rock-Paper-Scissors Hand Gestures for Machine Learning
 
-Pengembangan model Machine Learning untuk memprediksi gambar tangan apakah instruksi Batu/Kertas/Gunting. 
+## Setup Environment
+
+
+Open with Google Collaboratory
+```
+https://colab.google/
+```
+Paste notebook link On Open Colab
+```
+
+```
