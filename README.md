@@ -1,9 +1,9 @@
 # Rock-Paper-Scissors Hand Gestures for Machine Learning
 
 ## Dataset
-'''
+```
 https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
-'''
+```
 
 ## Setup Environment
 
