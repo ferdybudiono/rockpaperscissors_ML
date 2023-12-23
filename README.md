@@ -1,5 +1,10 @@
 # Rock-Paper-Scissors Hand Gestures for Machine Learning
 
+## Dataset
+'''
+https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
+'''
+
 ## Setup Environment
 
 
@@ -9,5 +14,5 @@ https://colab.google/
 ```
 Paste this notebook link On 'Open Colab' Github option
 ```
-https://github.com/ferdybudiono/rockpaperscissors_ML/blob/main/submisiDicodingRPS.ipynb
+https://github.com/ferdybudiono/rockpaperscissors_ML/blob/main/RPS.ipynb
 ```
